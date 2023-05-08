@@ -78,6 +78,6 @@ More project simulations are done today,<br>
 **projects**:[Traffic light using button on ardino](https://www.tinkercad.com/things/6FAEcFLt8zU-copy-of-traffic-light-with-button/editel?sharecode=eBHnNhqRaADS0cRv97TG3gxbzejDuZgXx0xhY1G07EY)<br>
              [Displaying "GPTC CHELAKKARA" on LCD](https://www.tinkercad.com/things/1HuE2fVAJFy)<br>
              
-             ![COPY](https://user-images.githubusercontent.com/132337992/236753294-686bab96-3952-49cc-9202-fcfc1bf5d15e.png)
+             
 
 
